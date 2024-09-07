@@ -1,4 +1,4 @@
-##  Desvendando o Mundo dos PC's portáteis : Uma Jornada de Pesquisa Interativa! 
+##  Desvendando o Mundo dos PC's portáteis : Uma Jornada de Pesquisa Interativa! - Imersão Dev Alura com Google Gemini
 
 **O que essa aplicação faz?**
 
